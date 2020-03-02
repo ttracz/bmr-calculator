@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kalkulator/static/css/main.efa1d33d.chunk.css",
+    "main.js": "/kalkulator/static/js/main.c88a699d.chunk.js",
+    "main.js.map": "/kalkulator/static/js/main.c88a699d.chunk.js.map",
+    "runtime-main.js": "/kalkulator/static/js/runtime-main.68e4ee23.js",
+    "runtime-main.js.map": "/kalkulator/static/js/runtime-main.68e4ee23.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/kalkulator/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.00e26318.chunk.js": "/kalkulator/static/js/2.00e26318.chunk.js",
+    "static/js/2.00e26318.chunk.js.map": "/kalkulator/static/js/2.00e26318.chunk.js.map",
+    "index.html": "/kalkulator/index.html",
+    "precache-manifest.bd819e6eafcc86ff4a4dddb1c8effebd.js": "/kalkulator/precache-manifest.bd819e6eafcc86ff4a4dddb1c8effebd.js",
+    "service-worker.js": "/kalkulator/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/kalkulator/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.efa1d33d.chunk.css.map": "/kalkulator/static/css/main.efa1d33d.chunk.css.map",
+    "static/js/2.00e26318.chunk.js.LICENSE.txt": "/kalkulator/static/js/2.00e26318.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/kalkulator/static/media/bg-oferta.3f9eec3c.png",
+    "static/media/logo-hb.png": "/kalkulator/static/media/logo-hb.184cc0c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68e4ee23.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.00e26318.chunk.js",
+    "static/css/main.efa1d33d.chunk.css",
+    "static/js/main.c88a699d.chunk.js"
+  ]
+}
